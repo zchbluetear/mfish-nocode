@@ -11,3 +11,5 @@ services:
       - /home/srv/docker_volumes/mfish-nocode-service/logs:/app/logs
       - /home/srv/docker_volumes/mfish-nocode-service/code:/app/code
       - /home/srv/docker_volumes/mfish-nocode-service/storage:/app/storage
+
+
